@@ -81,11 +81,10 @@ a{
     gap: 10px;
 }
 
-.five-box-container{
-    background-image: linear-gradient(white,#f7d59a) , url(./bg.png);
-}
+
 main{
     background-image: url(./bg.png);
+    background-image: linear-gradient(white,#f7d59a) , url(./bg.png);
 }
 .kids-edu{
     width: 400px;
