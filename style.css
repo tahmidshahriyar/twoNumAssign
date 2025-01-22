@@ -84,6 +84,9 @@ a{
 .five-box-container{
     background-image: linear-gradient(white,#f7d59a) , url(./bg.png);
 }
+main{
+    background-image: url(./bg.png);
+}
 .kids-edu{
     width: 400px;
     /* height: 100px; */
