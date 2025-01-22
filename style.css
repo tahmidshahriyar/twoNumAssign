@@ -80,14 +80,9 @@ a{
     justify-content: center;
     gap: 10px;
 }
-.grid-card-container{
-    display: grid;
-    grid-template-columns: 540px repeat(2,290px);
-    grid-column: 1 / span 2;
-}
+
 .five-box-container{
-    background-image: url(./B11-A2-Kids-School/assets/bg.png);
-    background-image: linear-gradient(white,#f7d59a);
+    background-image: linear-gradient(white,#f7d59a) , url(./bg.png);
 }
 .kids-edu{
     width: 400px;
